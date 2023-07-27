@@ -7,7 +7,7 @@ spring:
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/order_service_deb
     username: postgres
-    password: azamjon1999
+    password: dbkey
   application:
     name: ORDER-SERVICE
 server:
